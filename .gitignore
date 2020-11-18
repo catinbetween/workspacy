@@ -3,3 +3,4 @@ dist/
 .env
 package-lock.json
 src/popup/package-lock.json
+workspacy.code-workspace

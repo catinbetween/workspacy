@@ -7,8 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Maxi, never forget that you are valid.
-          And if Finn's chrome extension is telling you that, it must be true.
+        <p>This will be what you see when you click the extension icon"
         </p>
         {/*<p>
           Edit <code>src/App.tsx</code> and save to reload.
